@@ -1,0 +1,19 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+
+#current-time {
+  display: flex;
+  flex-direction: row;
+
+  .label,
+  .value {
+    text-align: center;
+  }
+
+  .value {
+    padding: 10px;
+    font-size: 40px;
+  }
+}
