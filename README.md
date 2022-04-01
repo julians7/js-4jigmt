@@ -8,3 +8,5 @@ CurrentTime.js
    - time-hours
    - time-minutes
    - time-sec
+
+Used package: moment.
